@@ -18,7 +18,7 @@
 
 对比：
 
-5. [OSI 和 TCP/IP 协议之间的对应关系](protocol/OSI和TCPIP协议之间的对应关系.md)
+5. [OSI 和 TCP/IP 协议之间的对应关系](protocol/OSI 和 TCP IP 协议之间的对应关系.md)
 
 6. [OSI 模型和 TCP/IP 模型异同比较](protocol/OSI 模型和 TCP IP 模型异同比较.md)
 
